@@ -1,3 +1,4 @@
+# Program to evaluate student results based on marks
 marks = int(input("Enter your marks: "))
 if marks < 0 or marks > 100 :
     print ("Invalid marks")

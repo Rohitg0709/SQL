@@ -25,3 +25,5 @@ This program takes marks (out of 100) as input and classifies the result into di
 
 ```bash
 python result.py
+## Author
+Rohit
